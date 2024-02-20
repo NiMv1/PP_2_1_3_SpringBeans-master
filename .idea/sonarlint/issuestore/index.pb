@@ -9,3 +9,13 @@ P
  src/main/java/app/model/Cat.java,3\7\3728f38b5b6321965e8843b6666b619f032b3840
 R
 "src/main/java/app/model/Timer.java,e\2\e268456b123aacbcee21bcd322630c3c4949483b
+K
+src/test/java/MainTest.java,9\8\989ce762b4969b8a93ccc8fbdb6f514755f283f5
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+w
+G.idea/sonarlint/issuestore/9/8/989ce762b4969b8a93ccc8fbdb6f514755f283f5,c\8\c858700c49d214e1fc5c3d0f886867852d324b78
+Å
+Q.idea/sonarlint/securityhotspotstore/9/8/989ce762b4969b8a93ccc8fbdb6f514755f283f5,5\4\549ba1330fc53149780dda7df518c7948785265e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
